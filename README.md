@@ -4,7 +4,7 @@
   <b>Aspiring Cybersecurity Analyst | SOC Operations | Threat Detection & Incident Response</b>  
   <br/>
   <a href="mailto:matlabatcmachaka@gmail.com">📧 matlabatcmachaka@gmail.com</a> |
-  <a href="https://linkedin.com/in/matlaba-machaka">💼 LinkedIn</a> |
+  <a href="www.linkedin.com/in/matlaba-tshepiso-clayton-machaka-3aa575389">💼 LinkedIn</a> |
   <a href="https://github.com/Matlaba-Machaka">🌐 GitHub</a>
 </p>
 
