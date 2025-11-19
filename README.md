@@ -10,18 +10,18 @@
 
 ---
 
-### 🧠 About Me  
+###  About Me  
 
 I’m an **aspiring cybersecurity analyst** developing skills in **threat detection, incident response, and defensive security** through hands-on labs, simulations, and guided learning.  
 My interests include **SOC operations**, **log analysis**, and **security monitoring automation** using Python and open-source tools.  
 
-💡 My goal is to grow into a **SOC or blue team role**, contributing to real-world detection and response environments while continuously expanding my knowledge in cloud and network defense.
+My goal is to grow into a **SOC or blue team role**, contributing to real-world detection and response environments while continuously expanding my knowledge in cloud and network defense.
 
 ---
 
-### 🧰 Tools & Technologies  
+### Tools & Technologies  
 
-#### 🛡️ Security Stack  
+#### Security Stack  
 ![Wireshark](https://img.shields.io/badge/-Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 ![Nmap](https://img.shields.io/badge/-Nmap-005F91?style=for-the-badge)
 ![Splunk](https://img.shields.io/badge/-Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white)
@@ -29,7 +29,7 @@ My interests include **SOC operations**, **log analysis**, and **security monito
 ![Snort](https://img.shields.io/badge/-Snort-FF3366?style=for-the-badge)
 ![Kali Linux](https://img.shields.io/badge/-Kali_Linux-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)
 
-#### ⚙️ Supporting Tools  
+#### Supporting Tools  
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -38,7 +38,7 @@ My interests include **SOC operations**, **log analysis**, and **security monito
 
 ---
 
-### 🔬 Labs & Projects  
+### Labs & Projects  
 
 #### 🧩 **SOC Investigation Labs**
 > 🕵️ Hands-on practice in simulated SOC environments:  
