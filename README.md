@@ -1,70 +1,86 @@
-<h1 align="center">🛡️ Matlaba Tshepiso Clayton Machaka</h1>
+<h1 align="center">👨‍💻 Matlaba Tshepiso Clayton Machaka</h1>
 
 <p align="center">
-  <b>Aspiring Cybersecurity Analyst | SOC Operations | Threat Detection & Incident Response</b>  
+  <b>Graduate IT & Systems Professional | Cloud & Cybersecurity Enthusiast | Application & Infrastructure Support</b>
   <br/>
   <a href="mailto:matlabatcmachaka@gmail.com">📧 matlabatcmachaka@gmail.com</a> |
-  <a href="www.linkedin.com/in/matlaba-tshepiso-clayton-machaka-3aa575389">💼 LinkedIn</a> |
+  <a href="https://www.linkedin.com/in/matlaba-tshepiso-clayton-machaka-3aa575389">💼 LinkedIn</a> |
   <a href="https://github.com/Matlaba-Machaka">🌐 GitHub</a>
 </p>
 
 ---
 
-###  About Me  
+### 👋 About Me  
 
-I’m an **aspiring cybersecurity analyst** developing skills in **threat detection, incident response, and defensive security** through hands-on labs, simulations, and guided learning.  
-My interests include **SOC operations**, **log analysis**, and **security monitoring automation** using Python and open-source tools.  
+I’m a **BSc Computer Science graduate** with a strong interest in **IT systems, cloud technologies, and cybersecurity**, supported by hands-on labs, academic projects, and self-driven practical learning.
 
-My goal is to grow into a **SOC or blue team role**, contributing to real-world detection and response environments while continuously expanding my knowledge in cloud and network defense.
+My experience spans **system troubleshooting, log analysis, networking fundamentals, scripting, virtualization, and secure configuration**. I enjoy understanding how systems work end-to-end — from infrastructure and networks to applications, data, and security controls.
+
+While cybersecurity and cloud platforms are key long-term focus areas for me, I’m equally interested in **enterprise systems, application support, and IT operations**, where reliability, data integrity, and user experience are critical.
+
+My goal is to grow into a **well-rounded IT professional** who can support, secure, and continuously improve modern business systems.
 
 ---
 
-### Tools & Technologies  
+### 🛠️ Tools & Technologies  
 
-#### Security Stack  
+#### Systems, Cloud & Infrastructure  
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Windows](https://img.shields.io/badge/-Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+[![VMware](https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white)](https://www.vmware.com/)
+![Networking](https://img.shields.io/badge/-TCP/IP_&_DNS-0A66C2?style=for-the-badge)
+
+#### Security & Monitoring  
+![Splunk](https://img.shields.io/badge/-Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/-Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 ![Nmap](https://img.shields.io/badge/-Nmap-005F91?style=for-the-badge)
-![Splunk](https://img.shields.io/badge/-Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white)
-![TryHackMe](https://img.shields.io/badge/-TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=red)
 ![Snort](https://img.shields.io/badge/-Snort-FF3366?style=for-the-badge)
-![Kali Linux](https://img.shields.io/badge/-Kali_Linux-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)
+![TryHackMe](https://img.shields.io/badge/-TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=red)
 
-#### Supporting Tools  
+#### Development & Automation  
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-[![VMware](https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white)](https://www.vmware.com/)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
 
-### Labs & Projects  
+### 🧪 Labs & Projects  
 
-#### 🧩 **SOC Investigation Labs**
-> 🕵️ Hands-on practice in simulated SOC environments:  
-> - Log correlation using Splunk & Elastic SIEM  
-> - Network packet capture and anomaly analysis  
-> - Incident triage & escalation documentation  
+#### 🔎 SOC & Security Investigation Labs  
+> Hands-on practice in simulated environments focusing on:
+> - Log correlation and event investigation  
+> - Network traffic analysis and anomaly detection  
+> - Incident triage, escalation, and structured documentation  
 
-#### 🧠 **Threat Hunting Dashboard**
-> 🔍 A lightweight Python script for parsing and visualizing security event logs.  
-> Converts raw system or firewall data into **timeline-based charts** for easier analysis.  
- 
+#### 📊 Log Analysis & Automation (Python)  
+> Lightweight scripts to parse and analyse system and security logs  
+> Converts raw log data into **structured outputs and timelines**  
+> Designed to support **troubleshooting, investigation, and reporting**
+
+#### 🏗️ Systems & Application Projects  
+> Experience with database-driven applications, access control, and system validation  
+> Focus on understanding **system behaviour, failure points, and recovery**
+
 ---
 
-### 🧾 Certifications & Learning  
+### 📚 Certifications & Continuous Learning  
 
-🎯 **TryHackMe:** SOC Level 1 | Security Engineer Path  
-📘 **CompTIA Security+ (In Progress)**  
-💡 **Blue Team Labs Online (Practical Exercises)**  
-🧠 Ongoing: **Detection Engineering & Log Automation Projects**
+🎯 **TryHackMe** – SOC Level 1 & Security Engineer Path  
+📘 **CompTIA Security+ (SY0-701)** – In Progress  
+💡 **Blue Team Labs Online** – Practical exercises  
+☁️ Ongoing learning in **cloud fundamentals, monitoring, and automation**
 
 ---
 
 ### 🤝 Let’s Connect  
 
-I’m open to **entry-level cybersecurity opportunities**, **internships**, and **blue team collaborations**.  
-Let’s work together to strengthen digital defenses and share knowledge across the community.  
+I’m open to:
+- Graduate / entry-level IT roles  
+- Application & systems support  
+- Cloud & infrastructure learning opportunities  
+- Cybersecurity / blue team collaboration  
+
+I enjoy learning, documenting, and improving systems — and I’m always keen to collaborate with others who value reliable, secure, and well-designed technology.
 
 📫 Reach me at **[matlabatcmachaka@gmail.com](mailto:matlabatcmachaka@gmail.com)**  
 
@@ -73,5 +89,5 @@ Let’s work together to strengthen digital defenses and share knowledge across 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Matlaba-Machaka&style=flat-square&color=blue" alt="Profile views"/>
   <br/>
-  <sub>“Securing systems one alert at a time.”</sub>
+  <sub>“Building, supporting, and securing systems — one improvement at a time.”</sub>
 </p>
