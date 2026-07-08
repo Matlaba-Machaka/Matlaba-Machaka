@@ -1,93 +1,158 @@
 <h1 align="center">👨‍💻 Matlaba Tshepiso Clayton Machaka</h1>
 
 <p align="center">
-  <b>Graduate IT & Systems Professional | Cloud & Cybersecurity Enthusiast | Application & Infrastructure Support</b>
+  <b>Azure Technical Operations Engineer | Cloud Operations | Monitoring & Automation Enthusiast</b>
   <br/>
-  <a href="mailto:matlabatcmachaka@gmail.com">📧 matlabatcmachaka@gmail.com</a> |
-  <a href="https://www.linkedin.com/in/matlaba-tshepiso-clayton-machaka-3aa575389">💼 LinkedIn</a> |
-  <a href="https://github.com/Matlaba-Machaka">🌐 GitHub</a>
+  :matlabatcmachaka@gmail.com">📧 matlabatcmachaka@gmail.com</a> |
+  atlaba-tshepiso-clayton-machaka-3aa575389">💼 LinkedIn</a> |
+  ://github.com/Matlaba-Machaka">🌐 GitHub</a>
 </p>
 
 ---
 
-### 👋 About Me  
+### 👋 About Me
 
-I’m a **BSc Computer Science graduate** with a strong interest in **IT systems, cloud technologies, and cybersecurity**, supported by hands-on labs, academic projects, and self-driven practical learning.
+I am an **Azure Technical Operations Engineer** with a background in Computer Science and a passion for cloud technologies, infrastructure, automation, and modern IT operations.
 
-My experience spans **system troubleshooting, log analysis, networking fundamentals, scripting, virtualization, and secure configuration**. I enjoy understanding how systems work end-to-end — from infrastructure and networks to applications, data, and security controls.
+My work focuses on supporting cloud-based environments, troubleshooting complex technical issues, analysing logs and telemetry, monitoring system performance, and helping ensure the reliability and availability of critical services. I enjoy understanding how systems work end-to-end, from infrastructure and networking to applications, monitoring, and operational processes.
 
-While cybersecurity and cloud platforms are key long-term focus areas for me, I’m equally interested in **enterprise systems, application support, and IT operations**, where reliability, data integrity, and user experience are critical.
+I have experience working with Microsoft Azure technologies and enterprise support environments, where problem-solving, root cause analysis, operational excellence, and customer-focused support are essential.
 
-My goal is to grow into a **well-rounded IT professional** who can support, secure, and continuously improve modern business systems.
+Beyond my current role, I am continuously learning and expanding my skills in cloud architecture, infrastructure automation, DevOps practices, observability, and platform engineering. I also maintain a strong interest in cybersecurity and cloud security as important components of modern technology environments.
 
----
-
-### 🛠️ Tools & Technologies  
-
-#### Systems, Cloud & Infrastructure  
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Windows](https://img.shields.io/badge/-Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-[![VMware](https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white)](https://www.vmware.com/)
-![Networking](https://img.shields.io/badge/-TCP/IP_&_DNS-0A66C2?style=for-the-badge)
-
-#### Security & Monitoring  
-![Splunk](https://img.shields.io/badge/-Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white)
-![Wireshark](https://img.shields.io/badge/-Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-![Nmap](https://img.shields.io/badge/-Nmap-005F91?style=for-the-badge)
-![Snort](https://img.shields.io/badge/-Snort-FF3366?style=for-the-badge)
-![TryHackMe](https://img.shields.io/badge/-TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=red)
-
-#### Development & Automation  
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+My long-term goal is to grow into roles such as **Cloud Engineer, DevOps Engineer, Solutions Architect, or Site Reliability Engineer (SRE)**, helping organizations build scalable, reliable, secure, and well-designed cloud solutions.
 
 ---
 
-### 🧪 Labs & Projects  
+### ☁️ Cloud, Infrastructure & Operations
 
-#### 🔎 SOC & Security Investigation Labs  
-> Hands-on practice in simulated environments focusing on:
-> - Log correlation and event investigation  
-> - Network traffic analysis and anomaly detection  
-> - Incident triage, escalation, and structured documentation  
-
-#### 📊 Log Analysis & Automation (Python)  
-> Lightweight scripts to parse and analyse system and security logs  
-> Converts raw log data into **structured outputs and timelines**  
-> Designed to support **troubleshooting, investigation, and reporting**
-
-#### 🏗️ Systems & Application Projects  
-> Experience with database-driven applications, access control, and system validation  
-> Focus on understanding **system behaviour, failure points, and recovery**
+https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white
+https://img.shields.io/badge/Azure_Monitor-0078D4?style=for-the-badge
+https://img.shields.io/badge/Log_Analytics-0078D4?style=for-the-badge
+https://img.shields.io/badge/KQL-512BD4?style=for-the-badge
+![Windows](https://img.shields.io/badge/Windows-0078D6the-badge&logo=windows&logoColor=white
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-thego=linux&logoColor=black
+![VMware](https://img.shields.io/badge/VMware-607078?the-badge&logo=vmware&logoColor=white
+![TCP/IP](https://img.shields.io/badge/TCP/IP6C2?style=for-the-badge
 
 ---
 
-### 📚 Certifications & Continuous Learning  
+### 📊 Monitoring, Troubleshooting & Support
 
-🎯 **TryHackMe** – SOC Level 1 & Security Engineer Path  
-📘 **CompTIA Security+ (SY0-701)** – In Progress  
-💡 **Blue Team Labs Online** – Practical exercises  
-☁️ Ongoing learning in **cloud fundamentals, monitoring, and automation**
+![Azure Monitor](https://img.shields.io/badge/Azure_Monitor-007-badge
+![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&white
+![Log Analysis](https://img.shog_Analysis-4CAF50?style=for-the-badge
+![Incident Management](https://img.shields.io/badge/Incidente=for-the-badge
+
+Focused on:
+
+- Incident investigation and resolution
+- Root cause analysis
+- Service monitoring and availability
+- Performance troubleshooting
+- Operational excellence
+- Customer and stakeholder support
+- Application and infrastructure diagnostics
 
 ---
 
-### 🤝 Let’s Connect  
+### ⚙️ Automation & Development
 
-I’m open to:
-- Graduate / entry-level IT roles  
-- Application & systems support  
-- Cloud & infrastructure learning opportunities  
-- Cybersecurity / blue team collaboration  
+![Python](https://img.shields.io/on-3776AB?style=for-the-badge&logo=python&logoColor=white
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE-badge&logo=powershell&logoColor=white
+![Bash](https://img.shields.io/badge/B25?style=for-the-badge&logo=gnubash&logoColor=white
+![Git](https://img.shields.io/badge/Git-F05032?style=-badge&logo=git&logoColor=white
 
-I enjoy learning, documenting, and improving systems — and I’m always keen to collaborate with others who value reliable, secure, and well-designed technology.
+Areas of interest include:
 
-📫 Reach me at **[matlabatcmachaka@gmail.com](mailto:matlabatcmachaka@gmail.com)**  
+- Infrastructure Automation
+- DevOps Practices
+- Process Improvement
+- Scripting & Tooling
+- CI/CD Concepts
+- Platform Reliability
+- Observability
+
+---
+
+### 🚀 Professional Focus
+
+#### ☁️ Azure Operations
+
+> Supporting cloud services and enterprise workloads through:
+>
+> - Incident management and troubleshooting
+> - Service health monitoring
+> - Operational support
+> - Root cause investigations
+> - Issue resolution and escalation
+> - Continuous service improvement
+
+#### 📈 Monitoring & Observability
+
+> Working with logs, telemetry, and monitoring data to:
+>
+> - Detect and investigate issues
+> - Support performance analysis
+> - Improve visibility into systems
+> - Assist with operational decision-making
+> - Maintain service reliability
+
+#### 🔧 Automation & Optimization
+
+> Leveraging scripting and automation to:
+>
+> - Reduce repetitive manual tasks
+> - Improve operational efficiency
+> - Standardize support processes
+> - Accelerate troubleshooting
+> - Enhance service quality
+
+---
+
+### 📚 Certifications & Continuous Learning
+
+🎯 Microsoft Azure
+
+📘 AZ-900 – Azure Fundamentals
+
+🔧 AZ-104 – Azure Administrator (Learning Path)
+
+📊 Azure Monitor, Log Analytics & KQL
+
+⚙️ PowerShell & Python Automation
+
+☁️ Cloud Architecture & Infrastructure Design
+
+🚀 DevOps Principles & CI/CD Practices
+
+🏗️ Solutions Architecture Concepts
+
+🔐 Cloud Security & Cybersecurity Fundamentals
+
+---
+
+### 🤝 Let's Connect
+
+I'm interested in connecting with professionals working in:
+
+- Cloud Engineering
+- Azure Technologies
+- DevOps & Automation
+- Solutions Architecture
+- Platform Engineering
+- Site Reliability Engineering (SRE)
+- Cloud Operations
+- Cloud Security
+
+I enjoy learning, building, troubleshooting, automating, and continuously improving technology platforms that help organizations operate more effectively.
+
+📫 Reach me at **[matlabatcmachaka@gmail.com](mailto:matlabatcmachaka@gmail.com)**
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Matlaba-Machaka&style=flat-square&color=blue" alt="Profile views"/>
+  https://komarev.com/ghpvc/?username=Matlaba-Machaka&style=flat-square&color=blue
   <br/>
-  <sub>“Building, supporting, and securing systems — one improvement at a time.”</sub>
+  <sub>“Keeping cloud services reliable, scalable, and secure through operational excellence.”</sub>
 </p>
