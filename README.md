@@ -1,16 +1,16 @@
-<h1 align="center"> Matlaba Tshepiso Clayton Machaka</h1>
+<h1 align="center">👨‍💻 Matlaba Tshepiso Clayton Machaka</h1>
 
 <p align="center">
   <b>Azure Technical Operations Engineer | Cloud Engineering | Automation | Azure Governance & FinOps</b>
   <br/><br/>
-  <a href="mailto:matlabatcmachaka@gmail.com"> Email</a> |
-  <a href= "linkedin.com/in/matlaba-tshepiso-clayton-machaka-3aa575389"> LinkedIn</a> |
-  <a href="https://github.com/Matlaba-Machaka"> GitHub</a>
+  <a href="mailto:matlabatcmachaka@gmail.com">📧 Email</a> |
+  <a href ="linkedin.com/in/matlaba-tshepiso-clayton-machaka-3aa575389">💼 LinkedIn</a> |
+  <a href="https://github.com/Matlaba-Machaka">🌐 GitHub</a>
 </p>
 
 ---
 
-## About Me
+## 👋 About Me
 
 I'm an **Azure Technical Operations Engineer** passionate about cloud technologies, infrastructure engineering, automation, governance, and building reliable platforms that enable organizations to operate at scale.
 
@@ -24,7 +24,7 @@ My goal is to evolve into a Cloud Engineer, DevOps Engineer, Solutions Architect
 
 ---
 
-## Cloud Infrastructure & Platform Engineering
+## ☁️ Cloud Infrastructure & Platform Engineering
 
 - Microsoft Azure
 - Azure Landing Zones
@@ -42,9 +42,10 @@ My goal is to evolve into a Cloud Engineer, DevOps Engineer, Solutions Architect
 
 ---
 
-## Automation & Engineering
+## ⚙️ Automation & Engineering
 
 - PowerShell
+- Python
 - Bash
 - Git & GitHub
 - GitHub Actions
@@ -59,7 +60,7 @@ I enjoy transforming repetitive processes into repeatable and automated workflow
 
 ---
 
-## Monitoring, Reliability & Observability
+## 📊 Monitoring, Reliability & Observability
 
 - Azure Monitor
 - Azure Log Analytics
@@ -76,14 +77,14 @@ Focused on understanding platform behaviour through metrics, logs, diagnostics, 
 
 ---
 
-## Core Engineering Focus Areas
+## 🚀 Core Engineering Focus Areas
 
 <table>
 <tr>
 
 <td width="33%" valign="top">
 
-### Cloud Engineering
+### 🏗️ Cloud Engineering
 
 - Designing Azure environments
 - Building scalable foundations
@@ -96,7 +97,7 @@ Focused on understanding platform behaviour through metrics, logs, diagnostics, 
 
 <td width="33%" valign="top">
 
-### Automation & DevOps
+### ⚙️ Automation & DevOps
 
 - Infrastructure as Code
 - Deployment automation
@@ -109,7 +110,7 @@ Focused on understanding platform behaviour through metrics, logs, diagnostics, 
 
 <td width="33%" valign="top">
 
-### Reliability & FinOps
+### 📈 Reliability & FinOps
 
 - Cost optimization
 - Resource efficiency
@@ -125,40 +126,40 @@ Focused on understanding platform behaviour through metrics, logs, diagnostics, 
 
 ---
 
-## Current Engineering Journey
+## 🔬 Current Engineering Journey
 
 I use GitHub as a place to learn, experiment, and document my cloud engineering journey.
 
 Current areas of focus include:
 
-### Cloud Engineering
+### ☁️ Cloud Engineering
 - Azure Administration
 - Cloud Architecture Fundamentals
 - Landing Zone Design
 - Azure Networking
 - Resource Governance
 
-### Infrastructure as Code
+### 🚀 Infrastructure as Code
 - Terraform Fundamentals
 - Modular Infrastructure Design
 - State Management
 - Environment Standardization
 
-### DevOps & Platform Engineering
+### ⚙️ DevOps & Platform Engineering
 - GitHub Actions
 - CI/CD Pipelines
 - Deployment Automation
 - Platform Reliability
 - Engineering Best Practices
 
-### Monitoring & Observability
+### 📊 Monitoring & Observability
 - Azure Monitor
 - Log Analytics
 - KQL
 - Dashboards & Insights
 - Alerting Strategies
 
-### Cloud Security
+### 🔐 Cloud Security
 - Identity Governance
 - Access Control
 - Least Privilege Design
@@ -167,33 +168,31 @@ Current areas of focus include:
 
 ---
 
-## Certifications & Learning Roadmap
+## 📚 Certifications & Learning Roadmap
 
-### Achieved
+### ✅ Achieved
 
-Microsoft Certified: Azure Fundamentals (AZ-900)
+🎯 Microsoft Certified: Azure Fundamentals (AZ-900)
 
-Microsoft Certified: Security, Compliance, and Identity Fundamentals (SC-900)
+### 🚧 In Progress
 
-### In Progress
+🔧 AZ-104 – Microsoft Azure Administrator
 
-AZ-104 – Microsoft Azure Administrator
+### 🎯 Next Targets
 
-### Next Targets
+🌐 AZ-700 – Designing and Implementing Microsoft Azure Networking Solutions
 
-AZ-700 – Designing and Implementing Microsoft Azure Networking Solutions
+🏗️ AZ-305 – Designing Microsoft Azure Infrastructure Solutions
 
-AZ-305 – Designing Microsoft Azure Infrastructure Solutions
+🚀 HashiCorp Terraform Associate
 
-HashiCorp Terraform Associate
+⚙️ Azure DevOps & Platform Engineering
 
-Azure DevOps & Platform Engineering
-
-Cloud Security & Identity Engineering
+🔐 Cloud Security & Identity Engineering
 
 ---
 
-## What You'll Find Here
+## 📂 What You'll Find Here
 
 This GitHub profile showcases projects, labs, scripts, and technical experiments focused on:
 
@@ -208,4 +207,7 @@ This GitHub profile showcases projects, labs, scripts, and technical experiments
 - DevOps Practices
 - Platform Engineering
 
+Every project represents a step toward deeper cloud expertise and a stronger engineering mindset.
+
 ---
+
