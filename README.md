@@ -1,158 +1,211 @@
-<h1 align="center">👨‍💻 Matlaba Tshepiso Clayton Machaka</h1>
+<h1 align="center"> Matlaba Tshepiso Clayton Machaka</h1>
 
 <p align="center">
-  <b>Azure Technical Operations Engineer | Cloud Operations | Monitoring & Automation Enthusiast</b>
-  <br/>
-  :matlabatcmachaka@gmail.com">📧 matlabatcmachaka@gmail.com</a> |
-  atlaba-tshepiso-clayton-machaka-3aa575389">💼 LinkedIn</a> |
-  ://github.com/Matlaba-Machaka">🌐 GitHub</a>
+  <b>Azure Technical Operations Engineer | Cloud Engineering | Automation | Azure Governance & FinOps</b>
+  <br/><br/>
+  <a href="mailto:matlabatcmachaka@gmail.com"> Email</a> |
+  <a href= "linkedin.com/in/matlaba-tshepiso-clayton-machaka-3aa575389"> LinkedIn</a> |
+  <a href="https://github.com/Matlaba-Machaka"> GitHub</a>
 </p>
 
 ---
 
-### 👋 About Me
+## About Me
 
-I am an **Azure Technical Operations Engineer** with a background in Computer Science and a passion for cloud technologies, infrastructure, automation, and modern IT operations.
+I'm an **Azure Technical Operations Engineer** passionate about cloud technologies, infrastructure engineering, automation, governance, and building reliable platforms that enable organizations to operate at scale.
 
-My work focuses on supporting cloud-based environments, troubleshooting complex technical issues, analysing logs and telemetry, monitoring system performance, and helping ensure the reliability and availability of critical services. I enjoy understanding how systems work end-to-end, from infrastructure and networking to applications, monitoring, and operational processes.
+My work revolves around engineering efficient Azure environments through cloud governance, subscription lifecycle management, identity and access controls, cost optimization, operational excellence, and platform reliability. I enjoy analysing complex technical challenges, uncovering patterns within cloud environments, and implementing solutions that improve scalability, consistency, and efficiency.
 
-I have experience working with Microsoft Azure technologies and enterprise support environments, where problem-solving, root cause analysis, operational excellence, and customer-focused support are essential.
+What excites me about cloud engineering is the combination of infrastructure, networking, automation, observability, security, and architecture. I enjoy understanding how these components interact and leveraging that knowledge to create robust cloud ecosystems.
 
-Beyond my current role, I am continuously learning and expanding my skills in cloud architecture, infrastructure automation, DevOps practices, observability, and platform engineering. I also maintain a strong interest in cybersecurity and cloud security as important components of modern technology environments.
+I continuously invest in developing expertise across Infrastructure as Code (IaC), DevOps practices, cloud architecture, platform engineering, cloud networking, and modern reliability engineering. While cloud engineering remains my primary focus, I maintain a strong interest in cloud security and the role it plays in designing secure and resilient platforms.
 
-My long-term goal is to grow into roles such as **Cloud Engineer, DevOps Engineer, Solutions Architect, or Site Reliability Engineer (SRE)**, helping organizations build scalable, reliable, secure, and well-designed cloud solutions.
-
----
-
-### ☁️ Cloud, Infrastructure & Operations
-
-https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white
-https://img.shields.io/badge/Azure_Monitor-0078D4?style=for-the-badge
-https://img.shields.io/badge/Log_Analytics-0078D4?style=for-the-badge
-https://img.shields.io/badge/KQL-512BD4?style=for-the-badge
-![Windows](https://img.shields.io/badge/Windows-0078D6the-badge&logo=windows&logoColor=white
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-thego=linux&logoColor=black
-![VMware](https://img.shields.io/badge/VMware-607078?the-badge&logo=vmware&logoColor=white
-![TCP/IP](https://img.shields.io/badge/TCP/IP6C2?style=for-the-badge
+My goal is to evolve into a Cloud Engineer, DevOps Engineer, Solutions Architect, or Site Reliability Engineer by combining hands-on engineering, automation, and architectural thinking.
 
 ---
 
-### 📊 Monitoring, Troubleshooting & Support
+## Cloud Infrastructure & Platform Engineering
 
-![Azure Monitor](https://img.shields.io/badge/Azure_Monitor-007-badge
-![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&white
-![Log Analysis](https://img.shog_Analysis-4CAF50?style=for-the-badge
-![Incident Management](https://img.shields.io/badge/Incidente=for-the-badge
-
-Focused on:
-
-- Incident investigation and resolution
-- Root cause analysis
-- Service monitoring and availability
-- Performance troubleshooting
-- Operational excellence
-- Customer and stakeholder support
-- Application and infrastructure diagnostics
+- Microsoft Azure
+- Azure Landing Zones
+- Azure Resource Manager (ARM)
+- Management Groups
+- Azure Policy
+- Subscription Lifecycle Management
+- Azure Resource Organization
+- Azure Cost Management
+- Platform Governance
+- Multi-Tenant Cloud Environments
+- Azure Entra ID
+- Azure RBAC
+- GDAP
 
 ---
 
-### ⚙️ Automation & Development
+## Automation & Engineering
 
-![Python](https://img.shields.io/on-3776AB?style=for-the-badge&logo=python&logoColor=white
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE-badge&logo=powershell&logoColor=white
-![Bash](https://img.shields.io/badge/B25?style=for-the-badge&logo=gnubash&logoColor=white
-![Git](https://img.shields.io/badge/Git-F05032?style=-badge&logo=git&logoColor=white
-
-Areas of interest include:
-
-- Infrastructure Automation
-- DevOps Practices
-- Process Improvement
-- Scripting & Tooling
+- PowerShell
+- Bash
+- Git & GitHub
+- GitHub Actions
+- Terraform (Learning & Labs)
+- Infrastructure as Code (IaC)
+- Automation Workflows
+- Process Optimization
 - CI/CD Concepts
+- Configuration Management
+
+I enjoy transforming repetitive processes into repeatable and automated workflows that improve consistency, reduce manual effort, and accelerate delivery.
+
+---
+
+## Monitoring, Reliability & Observability
+
+- Azure Monitor
+- Azure Log Analytics
+- Kusto Query Language (KQL)
+- Resource Health Analysis
+- Telemetry Investigation
+- Root Cause Analysis
+- Incident Analytics
+- Performance Optimization
+- Cloud Consumption Analysis
+- Operational Insights
+
+Focused on understanding platform behaviour through metrics, logs, diagnostics, and telemetry to drive reliability and continuous improvement.
+
+---
+
+## Core Engineering Focus Areas
+
+<table>
+<tr>
+
+<td width="33%" valign="top">
+
+### Cloud Engineering
+
+- Designing Azure environments
+- Building scalable foundations
+- Architecting landing zones
+- Managing cloud resources
+- Structuring governance models
+- Optimizing cloud operations
+
+</td>
+
+<td width="33%" valign="top">
+
+### Automation & DevOps
+
+- Infrastructure as Code
+- Deployment automation
+- CI/CD concepts
+- Process engineering
+- Workflow optimization
+- Platform standardization
+
+</td>
+
+<td width="33%" valign="top">
+
+### Reliability & FinOps
+
+- Cost optimization
+- Resource efficiency
+- Usage analysis
+- Performance monitoring
+- Platform observability
+- Continuous improvement
+
+</td>
+
+</tr>
+</table>
+
+---
+
+## Current Engineering Journey
+
+I use GitHub as a place to learn, experiment, and document my cloud engineering journey.
+
+Current areas of focus include:
+
+### Cloud Engineering
+- Azure Administration
+- Cloud Architecture Fundamentals
+- Landing Zone Design
+- Azure Networking
+- Resource Governance
+
+### Infrastructure as Code
+- Terraform Fundamentals
+- Modular Infrastructure Design
+- State Management
+- Environment Standardization
+
+### DevOps & Platform Engineering
+- GitHub Actions
+- CI/CD Pipelines
+- Deployment Automation
 - Platform Reliability
-- Observability
+- Engineering Best Practices
+
+### Monitoring & Observability
+- Azure Monitor
+- Log Analytics
+- KQL
+- Dashboards & Insights
+- Alerting Strategies
+
+### Cloud Security
+- Identity Governance
+- Access Control
+- Least Privilege Design
+- Zero Trust Concepts
+- Secure Cloud Architecture
 
 ---
 
-### 🚀 Professional Focus
+## Certifications & Learning Roadmap
 
-#### ☁️ Azure Operations
+### Achieved
 
-> Supporting cloud services and enterprise workloads through:
->
-> - Incident management and troubleshooting
-> - Service health monitoring
-> - Operational support
-> - Root cause investigations
-> - Issue resolution and escalation
-> - Continuous service improvement
+Microsoft Certified: Azure Fundamentals (AZ-900)
 
-#### 📈 Monitoring & Observability
+Microsoft Certified: Security, Compliance, and Identity Fundamentals (SC-900)
 
-> Working with logs, telemetry, and monitoring data to:
->
-> - Detect and investigate issues
-> - Support performance analysis
-> - Improve visibility into systems
-> - Assist with operational decision-making
-> - Maintain service reliability
+### In Progress
 
-#### 🔧 Automation & Optimization
+AZ-104 – Microsoft Azure Administrator
 
-> Leveraging scripting and automation to:
->
-> - Reduce repetitive manual tasks
-> - Improve operational efficiency
-> - Standardize support processes
-> - Accelerate troubleshooting
-> - Enhance service quality
+### Next Targets
+
+AZ-700 – Designing and Implementing Microsoft Azure Networking Solutions
+
+AZ-305 – Designing Microsoft Azure Infrastructure Solutions
+
+HashiCorp Terraform Associate
+
+Azure DevOps & Platform Engineering
+
+Cloud Security & Identity Engineering
 
 ---
 
-### 📚 Certifications & Continuous Learning
+## What You'll Find Here
 
-🎯 Microsoft Azure
+This GitHub profile showcases projects, labs, scripts, and technical experiments focused on:
 
-📘 AZ-900 – Azure Fundamentals
-
-🔧 AZ-104 – Azure Administrator (Learning Path)
-
-📊 Azure Monitor, Log Analytics & KQL
-
-⚙️ PowerShell & Python Automation
-
-☁️ Cloud Architecture & Infrastructure Design
-
-🚀 DevOps Principles & CI/CD Practices
-
-🏗️ Solutions Architecture Concepts
-
-🔐 Cloud Security & Cybersecurity Fundamentals
-
----
-
-### 🤝 Let's Connect
-
-I'm interested in connecting with professionals working in:
-
-- Cloud Engineering
-- Azure Technologies
-- DevOps & Automation
-- Solutions Architecture
+- Azure Engineering
+- Cloud Infrastructure
+- Terraform & IaC
+- Automation
+- Azure Governance
+- FinOps
+- Monitoring & Observability
+- Cloud Architecture
+- DevOps Practices
 - Platform Engineering
-- Site Reliability Engineering (SRE)
-- Cloud Operations
-- Cloud Security
-
-I enjoy learning, building, troubleshooting, automating, and continuously improving technology platforms that help organizations operate more effectively.
-
-📫 Reach me at **[matlabatcmachaka@gmail.com](mailto:matlabatcmachaka@gmail.com)**
 
 ---
-
-<p align="center">
-  https://komarev.com/ghpvc/?username=Matlaba-Machaka&style=flat-square&color=blue
-  <br/>
-  <sub>“Keeping cloud services reliable, scalable, and secure through operational excellence.”</sub>
-</p>
