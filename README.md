@@ -126,48 +126,6 @@ Focused on understanding platform behaviour through metrics, logs, diagnostics, 
 
 ---
 
-## 🔬 Current Engineering Journey
-
-I use GitHub as a place to learn, experiment, and document my cloud engineering journey.
-
-Current areas of focus include:
-
-### ☁️ Cloud Engineering
-- Azure Administration
-- Cloud Architecture Fundamentals
-- Landing Zone Design
-- Azure Networking
-- Resource Governance
-
-### 🚀 Infrastructure as Code
-- Terraform Fundamentals
-- Modular Infrastructure Design
-- State Management
-- Environment Standardization
-
-### ⚙️ DevOps & Platform Engineering
-- GitHub Actions
-- CI/CD Pipelines
-- Deployment Automation
-- Platform Reliability
-- Engineering Best Practices
-
-### 📊 Monitoring & Observability
-- Azure Monitor
-- Log Analytics
-- KQL
-- Dashboards & Insights
-- Alerting Strategies
-
-### 🔐 Cloud Security
-- Identity Governance
-- Access Control
-- Least Privilege Design
-- Zero Trust Concepts
-- Secure Cloud Architecture
-
----
-
 ## 📚 Certifications & Learning Roadmap
 
 ### ✅ Achieved
@@ -192,22 +150,4 @@ Current areas of focus include:
 
 ---
 
-## 📂 What You'll Find Here
-
-This GitHub profile showcases projects, labs, scripts, and technical experiments focused on:
-
-- Azure Engineering
-- Cloud Infrastructure
-- Terraform & IaC
-- Automation
-- Azure Governance
-- FinOps
-- Monitoring & Observability
-- Cloud Architecture
-- DevOps Practices
-- Platform Engineering
-
-Every project represents a step toward deeper cloud expertise and a stronger engineering mindset.
-
----
 
