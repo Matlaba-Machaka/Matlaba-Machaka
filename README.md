@@ -1,7 +1,7 @@
 <h1 align="center"> Matlaba Tshepiso Clayton Machaka</h1>
 
 <p align="center">
-  <b>Cloud Operations Engineer | Automation & DevOps | Multi-Cloud Infrastructure | Cloud Governance & FinOps</b>
+  <b>Azure Technical Operations | Cloud Operations Engineer </b>
   <br/><br/>
 
 ## 👋 About Me
