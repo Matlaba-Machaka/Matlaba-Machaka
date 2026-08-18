@@ -1,153 +1,64 @@
-<h1 align="center">👨‍💻 Matlaba Tshepiso Clayton Machaka</h1>
+<h1 align="center"> Matlaba Tshepiso Clayton Machaka</h1>
 
 <p align="center">
-  <b>Azure Technical Operations Engineer | Cloud Engineering | Automation | Azure Governance & FinOps</b>
+  <b>Cloud Operations Engineer | Automation & DevOps | Multi-Cloud Infrastructure | Cloud Governance & FinOps</b>
   <br/><br/>
-  <a href="mailto:matlabatcmachaka@gmail.com">📧 Email</a> |
-  <a href ="linkedin.com/in/matlaba-tshepiso-clayton-machaka-3aa575389">💼 LinkedIn</a> |
-  <a href="https://github.com/Matlaba-Machaka">🌐 GitHub</a>
-</p>
-
----
 
 ## 👋 About Me
 
-I'm an **Azure Technical Operations Engineer** passionate about cloud technologies, infrastructure engineering, automation, governance, and building reliable platforms that enable organizations to operate at scale.
+I am a **Cloud Operations Engineer** focused on building resilient, highly available, and cost-optimized multi-cloud platforms. While Microsoft Azure is my primary environment, I design infrastructure with an agnostic, automated mindset—treating underlying cloud environments as software utilities.
 
-My work revolves around engineering efficient Azure environments through cloud governance, subscription lifecycle management, identity and access controls, cost optimization, operational excellence, and platform reliability. I enjoy analysing complex technical challenges, uncovering patterns within cloud environments, and implementing solutions that improve scalability, consistency, and efficiency.
+My core competence lies in scaling operations through **Infrastructure as Code (IaC)**, implementing enterprise-grade **Cloud Governance (FinOps)**, and building repeatable automation workflows that minimize human error.
 
-What excites me about cloud engineering is the combination of infrastructure, networking, automation, observability, security, and architecture. I enjoy understanding how these components interact and leveraging that knowledge to create robust cloud ecosystems.
-
-I continuously invest in developing expertise across Infrastructure as Code (IaC), DevOps practices, cloud architecture, platform engineering, cloud networking, and modern reliability engineering. While cloud engineering remains my primary focus, I maintain a strong interest in cloud security and the role it plays in designing secure and resilient platforms.
-
-My goal is to evolve into a Cloud Engineer, DevOps Engineer, Solutions Architect, or Site Reliability Engineer by combining hands-on engineering, automation, and architectural thinking.
+- ⚙️ **Operational Philosophy:** If it needs to be executed twice, automate it. If it is deployed, monitor its behavior.
+- 🎯 **Career Trajectory:** Transitioning hands-on infrastructure operations into automated Systems/Site Reliability Engineering (SRE) and Solutions Architecture.
 
 ---
 
-## ☁️ Cloud Infrastructure & Platform Engineering
+## 🛠️ Technical Ecosystem
 
-- Microsoft Azure
-- Azure Landing Zones
-- Azure Resource Manager (ARM)
-- Management Groups
-- Azure Policy
-- Subscription Lifecycle Management
-- Azure Resource Organization
-- Azure Cost Management
-- Platform Governance
-- Multi-Tenant Cloud Environments
-- Azure Entra ID
-- Azure RBAC
-- GDAP
+### ☁️ Cloud Providers & Platforms
 
----
+![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logote)
+![AWS](https://img.shields.io/badge/AWS-Learning_Path-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+*(Learning Path)*
 
-## ⚙️ Automation & Engineering
+Architecture & Design:** Azure Landing Zones, Enterprise Scale Topology, Resource Organization, Multi-Tenant Design.
+* **Identity & Governance:** Microsoft Entra ID (Azure AD), Azure RBAC, GDAP, Azure Policy enforcement.
+* **FinOps & Cost Management:** Cost Analysis, Resource Optimization, Lifecycle Management, Spending Guardrails.
 
-- PowerShell
-- Python
-- Bash
-- Git & GitHub
-- GitHub Actions
-- Terraform (Learning & Labs)
-- Infrastructure as Code (IaC)
-- Automation Workflows
-- Process Optimization
-- CI/CD Concepts
-- Configuration Management
+### ⚙️ Automation & Infrastructure as Code (IaC)
 
-I enjoy transforming repetitive processes into repeatable and automated workflows that improve consistency, reduce manual effort, and accelerate delivery.
+![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=oColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoPython)
+![Python](https://img.shields.io/badge/Python-3776or-the-badge&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoite)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoeclarative)
+* **Infrastructure:** HashiCorp Terraform configuration, Bicep, ARM Templates.
+* **Workflow Automation:** CI/CD Engineering, GitHub Actions pipelines, Runbooks, Shell script orchestration.
+
+### 📊 Observability & Reliability
+
+![Azure Monitor](https://img.shields.io/badge/Azure_Monitor-0078D4?style=for-the-badge&logo=microsoftazure&logoColorytics)
+![Log Analytics](https://img.shields.io/badge/Log_Analytics-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=s://img.shields.io/badge/KQL-008272?or-the-badge&logo=microsoft&logoColor=white)
+
+* **Telemetry Analytics:** Azure Monitor, Log Analytics, Kusto Query Language (KQL).
+* **Incident Response:** Root Cause Analysis (RCA), Performance Triage, Log Aggregation, Anomaly Investigation.
 
 ---
 
-## 📊 Monitoring, Reliability & Observability
+## 🚀 Cloud Labs & Implementations
 
-- Azure Monitor
-- Azure Log Analytics
-- Kusto Query Language (KQL)
-- Resource Health Analysis
-- Telemetry Investigation
-- Root Cause Analysis
-- Incident Analytics
-- Performance Optimization
-- Cloud Consumption Analysis
-- Operational Insights
+### 🏗️ [Enterprise Multi-Cloud Architecture Framework](https://github.com/multi-cloud-landing-zone)
+*   **Description:** An automated deployment framework implementing secure Landing Zones. Features policy guardrails to enforce organizational compliance standards automatically.
+*   **Tech Stack:** Terraform, Azure Engine, Custom Policy JSON, GitHub Actions.
 
-Focused on understanding platform behaviour through metrics, logs, diagnostics, and telemetry to drive reliability and continuous improvement.
+### ⚙️ [Cloud Ops Automation & Orchestration Toolkit](https://github.com/cloudops-automation-toolkit)
+*   **Description:** A production-ready ecosystem of PowerShell and Python automation scripts focused on cost management, cleanup of orphaned cloud resources, and access provisioning.
+*   **Tech Stack:** Python, Azure SDK, Az PowerShell Modules, GitHub Actions Cron-jobs.
 
----
-
-## 🚀 Core Engineering Focus Areas
-
-<table>
-<tr>
-
-<td width="33%" valign="top">
-
-### 🏗️ Cloud Engineering
-
-- Designing Azure environments
-- Building scalable foundations
-- Architecting landing zones
-- Managing cloud resources
-- Structuring governance models
-- Optimizing cloud operations
-
-</td>
-
-<td width="33%" valign="top">
-
-### ⚙️ Automation & DevOps
-
-- Infrastructure as Code
-- Deployment automation
-- CI/CD concepts
-- Process engineering
-- Workflow optimization
-- Platform standardization
-
-</td>
-
-<td width="33%" valign="top">
-
-### 📈 Reliability & FinOps
-
-- Cost optimization
-- Resource efficiency
-- Usage analysis
-- Performance monitoring
-- Platform observability
-- Continuous improvement
-
-</td>
-
-</tr>
-</table>
+### 📊 [Dynamic Cloud FinOps & Anomaly Detection Workbooks](https://github.com/finops-kql-analytics)
+*   **Description:** Advanced telemetry infrastructure processing cross-resource diagnostic configurations to detect spending drift and performance degradation.
+*   **Tech Stack:** Kusto Query Language (KQL), Azure Log Analytics, Workspace Workbooks.
 
 ---
-
-## 📚 Certifications & Learning Roadmap
-
-### ✅ Achieved
-
-🎯 Microsoft Certified: Azure Fundamentals (AZ-900)
-
-### 🚧 In Progress
-
-🔧 AZ-104 – Microsoft Azure Administrator
-
-### 🎯 Next Targets
-
-🌐 AZ-700 – Designing and Implementing Microsoft Azure Networking Solutions
-
-🏗️ AZ-305 – Designing Microsoft Azure Infrastructure Solutions
-
-🚀 HashiCorp Terraform Associate
-
-⚙️ Azure DevOps & Platform Engineering
-
-🔐 Cloud Security & Identity Engineering
-
----
-
-
