@@ -31,7 +31,6 @@ Architecture & Design:** Azure Landing Zones, Enterprise Scale Topology, Resourc
 
 ![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=oColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoPython)
-![Python](https://img.shields.io/badge/Python-3776or-the-badge&logo=python&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoite)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoeclarative)
 * **Infrastructure:** HashiCorp Terraform configuration, Bicep, ARM Templates.
