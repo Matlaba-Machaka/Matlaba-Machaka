@@ -23,7 +23,7 @@ My core competence lies in scaling operations through **Infrastructure as Code (
 ![AWS](https://img.shields.io/badge/AWS-Learning_Path-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 *(Learning Path)*
 
-Architecture & Design:** Azure Landing Zones, Enterprise Scale Topology, Resource Organization, Multi-Tenant Design.
+* **Architecture & Design:** Azure Landing Zones, Enterprise Scale Topology, Resource Organization, Multi-Tenant Design.
 * **Identity & Governance:** Microsoft Entra ID (Azure AD), Azure RBAC, GDAP, Azure Policy enforcement.
 * **FinOps & Cost Management:** Cost Analysis, Resource Optimization, Lifecycle Management, Spending Guardrails.
 
