@@ -46,18 +46,5 @@ My core competence lies in scaling operations through **Infrastructure as Code (
 
 ---
 
-## 🚀 Cloud Labs & Implementations
-
-### 🏗️ [Enterprise Multi-Cloud Architecture Framework](https://github.com/multi-cloud-landing-zone)
-*   **Description:** An automated deployment framework implementing secure Landing Zones. Features policy guardrails to enforce organizational compliance standards automatically.
-*   **Tech Stack:** Terraform, Azure Engine, Custom Policy JSON, GitHub Actions.
-
-### ⚙️ [Cloud Ops Automation & Orchestration Toolkit](https://github.com/cloudops-automation-toolkit)
-*   **Description:** A production-ready ecosystem of PowerShell and Python automation scripts focused on cost management, cleanup of orphaned cloud resources, and access provisioning.
-*   **Tech Stack:** Python, Azure SDK, Az PowerShell Modules, GitHub Actions Cron-jobs.
-
-### 📊 [Dynamic Cloud FinOps & Anomaly Detection Workbooks](https://github.com/finops-kql-analytics)
-*   **Description:** Advanced telemetry infrastructure processing cross-resource diagnostic configurations to detect spending drift and performance degradation.
-*   **Tech Stack:** Kusto Query Language (KQL), Azure Log Analytics, Workspace Workbooks.
 
 ---
